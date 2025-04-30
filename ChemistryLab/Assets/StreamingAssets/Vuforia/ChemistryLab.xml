@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="fescn3" size="1.000000 1.500519" />
+    <ImageTarget name="kscn" size="1.000000 1.500000" />
+    <ImageTarget name="fecl3" size="1.000000 1.500000" />
+    <ImageTarget name="h2so4" size="1.000000 1.500000" />
+    <ImageTarget name="nacl" size="1.000000 1.499488" />
+    <ImageTarget name="cl" size="1.000000 1.500000" />
+    <ImageTarget name="na" size="1.000000 1.499475" />
+  </Tracking>
+</QCARConfig>
